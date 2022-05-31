@@ -1,13 +1,13 @@
 
 # 거스름돈 알고리즘
 
-n = 11618
+n = 1260
 count = 0
-
-coin_types = [500, 100, 50, 0]
+ 
+coin_types = [500, 100, 50, 10]
 
 for coin in coin_types:
-    count += n // coin
+    count += n // coin 
     n %= coin
 
 print(count)
