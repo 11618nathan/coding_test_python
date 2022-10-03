@@ -11,10 +11,10 @@
 	* Hello World!를 출력하시오.
 
 * 예제 입력
-	* <pre><code></code></pre>
+<pre><code></code></pre>
 
 * 예제 출력
-	* <pre><code>Hello World!</code></pre>
+<pre><code>Hello World!</code></pre>
 
 * 알고리즘 분류
 	* 구현
@@ -32,11 +32,11 @@
 	* 두 줄에 걸쳐 "강한친구 대한육군"을 한 줄에 한 번씩 출력한다.
 
 * 예제 입력
-	* <pre><code></code></pre>
+<pre><code></code></pre>
 
 * 예제 출력
-	* <pre><code>강한친구 대한육군
-	강한친구 대한육군</code></pre>
+<pre><code>강한친구 대한육군
+강한친구 대한육군</code></pre>
 
 * 출처
 	* Contest > Coder's High > Coder's High 2015 Side Contest P1번
@@ -58,10 +58,10 @@
 	* 첫째 줄에 A+B를 출력한다.
 
 * 예제 입력
-	* <pre><code>1 2</code></pre>
+<pre><code>1 2</code></pre>
 
 * 예제 출력
-	* <pre><code>3</code></pre>
+<pre><code>3</code></pre>
 
 * 출처
 	* 문제를 만든 사람: baekjoon
@@ -100,10 +100,10 @@
 	* 첫째 줄에 A-B를 출력한다.
 
 * 예제 입력
-	* <pre><code>3 2</code></pre>
+<pre><code>3 2</code></pre>
 
 * 예제 출력
-	* <pre><code>1</code></pre>
+<pre><code>1</code></pre>
 
 * 출처
 	* 문제를 만든 사람: baekjoon
@@ -141,16 +141,16 @@
 	* 첫째 줄에 A×B를 출력한다.
 
 * 예제 입력1
-	* <pre><code>1 2</code></pre>
+<pre><code>1 2</code></pre>
 
 * 예제 출력1
-	* <pre><code>2</code></pre>
+<pre><code>2</code></pre>
 
 * 예제 입력2
-	* <pre><code>3 4</code></pre>
+<pre><code>3 4</code></pre>
 
 * 예제 출력2
-	* <pre><code>12</code></pre>
+<pre><code>12</code></pre>
 
 * 출처
 	* 문제를 만든 사람: baekjoon
@@ -187,16 +187,16 @@
 	* 첫째 줄에 A/B를 출력한다. 실제 정답과 출력값의 절대오차 또는 상대오차가 10-9 이하이면 정답이다.
 
 * 예제 입력1
-	* <pre><code>1 3</code></pre>
+<pre><code>1 3</code></pre>
 
 * 예제 출력1
-	* <pre><code>0.33333333333333333333333333333333</code></pre>
+<pre><code>0.33333333333333333333333333333333</code></pre>
 
 * 예제 입력2
-	* <pre><code>4 5</code></pre>
+<pre><code>4 5</code></pre>
 
 * 예제 출력2
-	* <pre><code>0.8</code></pre>
+<pre><code>0.8</code></pre>
 
 * 출처
 	* 문제를 만든 사람: baekjoon
@@ -235,20 +235,20 @@
 	* 첫째 줄에 A+B, 둘째 줄에 A-B, 셋째 줄에 A×B, 넷째 줄에 A/B, 다섯째 줄에 A%B를 출력한다.
 
 * 예제 입력1
-	* <pre><code>7 3</code></pre>
+<pre><code>7 3</code></pre>
 
 * 예제 출력1
-	* <pre><code>10
-		4
-		21
-		2
-		1</code></pre>
+<pre><code>10
+4
+21
+2
+1</code></pre>
 
 * 예제 입력2
-	* <pre><code>4 5</code></pre>
+<pre><code>4 5</code></pre>
 
 * 예제 출력2
-	* <pre><code>0.8</code></pre>
+<pre><code>0.8</code></pre>
 
 * 알고리즘 분류
 	* 수학
@@ -268,16 +268,16 @@
 	* 첫째 줄에 준하의 놀람을 출력한다. 놀람은 아이디 뒤에 ??!를 붙여서 나타낸다.
 
 * 예제 입력1
-	* <pre><code>joonas</code></pre>
+<pre><code>joonas</code></pre>
 
 * 예제 출력1
-	* <pre><code>joonas??!</code></pre>
+<pre><code>joonas??!</code></pre>
 
 * 예제 입력2
-	* <pre><code>baekjoon</code></pre>
+<pre><code>baekjoon</code></pre>
 
 * 예제 출력2
-	* <pre><code>baekjoon??!</code></pre>
+<pre><code>baekjoon??!</code></pre>
 
 * 출처
 	* 문제를 만든 사람: baekjoon
@@ -300,10 +300,10 @@
 	* 불기 연도를 서기 연도로 변환한 결과를 출력한다.
 
 * 예제 입력1
-	* <pre><code>2541</code></pre>
+<pre><code>2541</code></pre>
 
 * 예제 출력1
-	* <pre><code>1998</code></pre>
+<pre><code>1998</code></pre>
 
 * 출처
 	* University > 서강대학교 > 2019 Sogang Programming Contest (Master) A번
