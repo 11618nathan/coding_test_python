@@ -390,7 +390,9 @@
 ## [12. 2588 - 곱셈](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/2588.py)
 * 문제
 	* (세 자리 수) × (세 자리 수)는 다음과 같은 과정을 통하여 이루어진다.
+
 	![2588](./img/2588.png)
+
 	* (1)과 (2)위치에 들어갈 세 자리 자연수가 주어질 때 (3), (4), (5), (6)위치에 들어갈 값을 구하는 프로그램을 작성하시오.
 
 * 입력
@@ -415,5 +417,32 @@
 * 알고리즘 분류
 	* 수학
 	* 사칙연산
+
+* * *
+
+## [13. 10171](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/10171.py)
+* 문제
+	* 아래 예제와 같이 고양이를 출력하시오.
+
+* 입력
+	* 없음.
+
+* 출력
+	* 고양이를 출력한다.
+
+* 예제 입력1
+<pre><code></code></pre>
+
+* 예제 출력1
+<pre><code>\    /&#92;
+ )  ( ')
+(  /  )
+ &#92;(&#95;)|</code></pre>
+
+* 출처
+	* High School > PLU High School Programming Contest > PLU 2014 - Novice 2번
+
+* 알고리즘 분류
+	* 구현
 
 * * *
