@@ -420,7 +420,7 @@
 
 * * *
 
-## [13. 10171](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/10171.py)
+## [13. 10171 - 고양이](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/10171.py)
 * 문제
 	* 아래 예제와 같이 고양이를 출력하시오.
 
@@ -437,12 +437,12 @@
 <pre><code>\    /&#92;
  )  ( ')
 (  /  )
- &#92;(&#95;)|</code></pre>
+ &#92;(&#95;&#95;)|</code></pre>
 
 * 출처
 	* High School > PLU High School Programming Contest > PLU 2014 - Novice 2번
 
 * 알고리즘 분류
-	* 구현
+	* 구
 
 * * *
