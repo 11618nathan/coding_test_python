@@ -443,6 +443,34 @@
 	* High School > PLU High School Programming Contest > PLU 2014 - Novice 2번
 
 * 알고리즘 분류
-	* 구
+	* 구현
+
+* * *
+
+## [14. 10172 - 개](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/10172.py)
+* 문제
+	* 아래 예제와 같이 개를 출력하시오.
+
+* 입력
+	* 없음.
+
+* 출력
+	* 개를 출력한다.
+
+* 예제 입력1
+<pre><code></code></pre>
+
+* 예제 출력1
+<pre><code>|&#92;&#95;/|
+|q p|   /}
+( 0 )"""&#92;
+|"^"&#96;    |
+||&#95;/=&#92;&#92;&#95;&#95;|</code></pre>
+
+* 출처
+	* High School > PLU High School Programming Contest > PLU 2014 - Novice 3번
+
+* 알고리즘 분류
+	* 구현
 
 * * *
