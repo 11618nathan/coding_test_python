@@ -156,11 +156,13 @@
 <pre><code>No</code></pre>
 
 * 출처
-	* Contest > Algorithmic Engagements > PA 2006 0-1번
-	* 문제를 번역한 사람: baekjoon
+	* University > 연세대학교 미래캠퍼스 > 2022 연세대학교 미래캠퍼스 슬기로운 코딩생활 A번
+	* 문제를 검수한 사람: jhnah917, yclock
+	* 문제를 만든 사람: junie
 
 * 알고리즘 분류
 	* 수학
 	* 구현
+	* 사칙연산
 
 * * *
