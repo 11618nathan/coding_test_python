@@ -143,7 +143,7 @@
 * 예제 출력1
 <pre><code>Yes</code></pre>
 
-	* 영수증에 적힌 구매할 물건들의 목록으로 계산한 총 금액은 20000 × 5 + 30000 × 2 + 10000 × 6 + 5000 × 8 = 260000원이다. 이는 영수증에 적힌 총 금액인 260000원과 일치한다. 
+* 영수증에 적힌 구매할 물건들의 목록으로 계산한 총 금액은 20000 × 5 + 30000 × 2 + 10000 × 6 + 5000 × 8 = 260000원이다. 이는 영수증에 적힌 총 금액인 260000원과 일치한다. 
 
 * 예제 입력2
 <pre><code>250000
@@ -271,7 +271,7 @@ Case #5: 7</code></pre>
 
 * * *
 
-## [6. 11022 - A+B - 8](https://github.com/laphayen/coding_test_python/tree/main/BAEKJOON/3.%20%EB%B0%98%EB%B3%B5%EB%AC%B8/11022.py)
+## [7. 11022 - A+B - 8](https://github.com/laphayen/coding_test_python/tree/main/BAEKJOON/3.%20%EB%B0%98%EB%B3%B5%EB%AC%B8/11022.py)
 * 문제
 	* 두 정수 A와 B를 입력받은 다음, A+B를 출력하는 프로그램을 작성하시오.
 
@@ -320,5 +320,34 @@ Case #5: 5 + 2 = 7</code></pre>
 	* 수학
 	* 구현
 	* 사칙연산
+
+* * *
+
+## [8. 2438 - 별 찍기 - 1](https://github.com/laphayen/coding_test_python/tree/main/BAEKJOON/3.%20%EB%B0%98%EB%B3%B5%EB%AC%B8/2438.py)
+* 문제
+	* 첫째 줄에는 별 1개, 둘째 줄에는 별 2개, N번째 줄에는 별 N개를 찍는 문제
+
+* 입력
+	* 첫째 줄에 N(1 ≤ N ≤ 100)이 주어진다.
+
+* 출력
+	* 첫째 줄부터 N번째 줄까지 차례대로 별을 출력한다.
+
+* 예제 입력1
+<pre><code>5</code></pre>
+
+* 예제 출력1
+<pre><code>*
+**
+***
+****
+*****</code></pre>
+
+* 출처
+	* 문제를 만든 사람: baekjoon
+	* 문제의 오타를 찾은 사람: grace0068
+
+* 알고리즘 분류
+	* 구현
 
 * * *
