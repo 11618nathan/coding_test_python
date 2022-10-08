@@ -459,17 +459,13 @@ Case #5: 5 + 2 = 7</code></pre>
 	* 15792번. A/B - 2
 
 * 알고리즘 분류
-<<<<<<< Updated upstream
-	* 구현
-=======
-<<<<<<< HEAD
 	* 수학
 	* 구현
 	* 사칙연산
 
 * * *
 
-## [11. 10951 - A+B - 4](https://github.com/laphayen/coding_test_python/tree/main/BAEKJOON/3.%20%EB%B0%98%EB%B3%B5%EB%AC%B8/10951.py)
+## [12. 10951 - A+B - 4](https://github.com/laphayen/coding_test_python/tree/main/BAEKJOON/3.%20%EB%B0%98%EB%B3%B5%EB%AC%B8/10951.py)
 * 문제
 	* 두 정수 A와 B를 입력받은 다음, A+B를 출력하는 프로그램을 작성하시오.
 
@@ -519,7 +515,61 @@ Case #5: 5 + 2 = 7</code></pre>
 	* 사칙연산
 
 * * *
-=======
+
+## [12. 1110 - 더하기 사이클](https://github.com/laphayen/coding_test_python/tree/main/BAEKJOON/3.%20%EB%B0%98%EB%B3%B5%EB%AC%B8/1110.py)
+* 문제
+	* 0보다 크거나 같고, 99보다 작거나 같은 정수가 주어질 때 다음과 같은 연산을 할 수 있다. 먼저 주어진 수가 10보다 작다면 앞에 0을 붙여 두 자리 수로 만들고, 각 자리의 숫자를 더한다. 그 다음, 주어진 수의 가장 오른쪽 자리 수와 앞에서 구한 합의 가장 오른쪽 자리 수를 이어 붙이면 새로운 수를 만들 수 있다. 다음 예를 보자.
+
+	* 26부터 시작한다. 2+6 = 8이다. 새로운 수는 68이다. 6+8 = 14이다. 새로운 수는 84이다. 8+4 = 12이다. 새로운 수는 42이다. 4+2 = 6이다. 새로운 수는 26이다.
+
+	* 위의 예는 4번만에 원래 수로 돌아올 수 있다. 따라서 26의 사이클의 길이는 4이다.
+
+	* N이 주어졌을 때, N의 사이클의 길이를 구하는 프로그램을 작성하시오.
+
+* 입력
+	* 첫째 줄에 N이 주어진다. N은 0보다 크거나 같고, 99보다 작거나 같은 정수이다.
+
+* 출력
+	* 첫째 줄에 N의 사이클 길이를 출력한다.
+
+* 예제 입력1
+<pre><code>26</code></pre>
+
+* 예제 출력1
+<pre><code>4</code></pre>
+
+* 예제 입력2
+<pre><code>55</code></pre>
+
+* 예제 출력2
+<pre><code>3</code></pre>
+
+* 예제 입력3
+<pre><code>1</code></pre>
+
+* 예제 출력3
+<pre><code>60</code></pre>
+
+* 예제 입력4
+<pre><code>0</code></pre>
+
+* 예제 출력4
+<pre><code>1</code></pre>
+
+* 예제 입력5
+<pre><code>71</code></pre>
+
+* 예제 출력5
+<pre><code>12</code></pre>
+
+* 출처
+	* 문제를 번역한 사람: baekjoon
+	* 어색한 표현을 찾은 사람: doju
+	* 문제의 오타를 찾은 사람: eric00513
+	* 데이터를 추가한 사람: jh05013
+
+* 알고리즘 분류
+	* 수학
 	* 구현
->>>>>>> af8b3e52afe5d7d42cd300159515238a2dc95c23
->>>>>>> Stashed changes
+
+* * *
