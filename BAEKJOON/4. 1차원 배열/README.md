@@ -282,19 +282,20 @@ OOOOXOOOOXOOOOX</code></pre>
 9 100 99 98 97 96 95 94 93 91</code></pre>
 
 * 예제 출력1
-<pre><code>140.000%
+<pre><code>40.000%
 57.143%
 33.333%
 66.667%
 55.556%</code></pre>
 
 * 출처
-	* ICPC > Regionals > Asia Pacific > Korea > Asia Regional - Seoul 2005 A번
-	* 문제를 번역한 사람: baekjoon
-	* 문제의 오타를 찾은 사람: jh82582
+	* Contest > Waterloo's local Programming Contests > 28 September, 2002 D번
+	* 문제를 번역한 사람: busyhuman
+	* 문제의 오타를 찾은 사람: choiking10, eric00513
+	* 어색한 표현을 찾은 사람: djm03178
 
 * 알고리즘 분류
-	* 구현
-	* 문자열
+	* 수학
+	* 사칙연산
 
 * * *
