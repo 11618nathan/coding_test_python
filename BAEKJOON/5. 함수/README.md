@@ -1,6 +1,6 @@
 # 5. 함수
 
-## [1. 15596 - 정수 N개의 합](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/4.%201%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/15596.py)
+## [1. 15596 - 정수 N개의 합](https://github.com/laphayen/coding_test_python/tree/main/BAEKJOON/5.%20%ED%95%A8%EC%88%98/15596.py)
 * 문제
 	* 정수 n개가 주어졌을 때, n개의 합을 구하는 함수를 작성하시오.
 
