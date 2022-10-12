@@ -210,7 +210,7 @@
 
 * * *
 
-## [5. 1152 - 단어의 개수](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/6.%20%EB%AC%B8%EC%9E%90%EC%97%B4/1152.py)
+## [6. 1152 - 단어의 개수](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/6.%20%EB%AC%B8%EC%9E%90%EC%97%B4/1152.py)
 * 문제
 	* 영어 대소문자와 공백으로 이루어진 문자열이 주어진다. 이 문자열에는 몇 개의 단어가 있을까? 이를 구하는 프로그램을 작성하시오. 단, 한 단어가 여러 번 등장하면 등장한 횟수만큼 모두 세어야 한다.
 
@@ -247,5 +247,49 @@
 * 알고리즘 분류
 	* 구현
 	* 문자열
+
+* * *
+
+## [7. 2908 - 단어의 개수](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/6.%20%EB%AC%B8%EC%9E%90%EC%97%B4/2908.py)
+* 문제
+	* 상근이의 동생 상수는 수학을 정말 못한다. 상수는 숫자를 읽는데 문제가 있다. 이렇게 수학을 못하는 상수를 위해서 상근이는 수의 크기를 비교하는 문제를 내주었다. 상근이는 세 자리 수 두 개를 칠판에 써주었다. 그 다음에 크기가 큰 수를 말해보라고 했다.
+
+	* 상수는 수를 다른 사람과 다르게 거꾸로 읽는다. 예를 들어, 734와 893을 칠판에 적었다면, 상수는 이 수를 437과 398로 읽는다. 따라서, 상수는 두 수중 큰 수인 437을 큰 수라고 말할 것이다.
+
+	* 두 수가 주어졌을 때, 상수의 대답을 출력하는 프로그램을 작성하시오.
+
+* 입력
+	* 첫째 줄에 상근이가 칠판에 적은 두 수 A와 B가 주어진다. 두 수는 같지 않은 세 자리 수이며, 0이 포함되어 있지 않다.
+
+* 출력
+	* 첫째 줄에 상수의 대답을 출력한다.
+
+* 예제 입력1
+<pre><code>734 893</code></pre>
+
+* 예제 출력1
+<pre><code>437</code></pre>
+
+* 예제 입력2
+<pre><code>221 231</code></pre>
+
+* 예제 출력2
+<pre><code>132</code></pre>
+
+* 예제 입력3
+<pre><code>839 237</code></pre>
+
+* 예제 출력3
+<pre><code>938</code></pre>
+
+* 출처
+	* Contest > Croatian Open Competition in Informatics > COCI 2009/2010 > Contest #3 1번
+	* 문제를 번역한 사람: baekjoon
+	* 문제의 오타를 찾은 사람: eric00513, identity1978, jongfighter, pkcchoi3
+	* 데이터를 추가한 사람: ssuu0216
+
+* 알고리즘 분류
+	* 수학
+	* 구현
 
 * * *
