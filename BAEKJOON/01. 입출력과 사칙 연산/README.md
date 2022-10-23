@@ -1,6 +1,6 @@
-# 1. 입출력과 사칙연산
+# 01. 입출력과 사칙연산
 
-## [1. 2557 - Hello World](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/1.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/2557.py)
+## [1. 2557 - Hello World](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/01.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/2557.py)
 * 문제
 	* hello World!를 출력하시오
 
@@ -21,7 +21,7 @@
 
 * * *
 
-## [2. 10718 - We love kriii](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/1.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/10718.py)
+## [2. 10718 - We love kriii](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/01.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/10718.py)
 * 문제
 	* ACM-ICPC 인터넷 예선, Regional, 그리고 World Finals까지 이미 2회씩 진출해버린 kriii는 미련을 버리지 못하고 왠지 모르게 올해에도 파주 World Finals 준비 캠프에 참여했다. 대회를 뜰 줄 모르는 지박령 kriii를 위해서 격려의 문구를 출력해주자.
 
@@ -47,7 +47,7 @@
 
 * * *
 
-## [3. 1000 - A+B](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/1.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/1000.py)
+## [3. 1000 - A+B](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/01.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/1000.py)
 * 문제
 	* 두 정수 A와 B를 입력받은 다음, A+B를 출력하는 프로그램을 작성하시오.
 
@@ -89,7 +89,7 @@
 
 * * *
 
-## [4. 1001 - A-B](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/1.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/1001.py)
+## [4. 1001 - A-B](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/01.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/1001.py)
 * 문제
 	* 두 정수 A와 B를 입력받은 다음, A-B를 출력하는 프로그램을 작성하시오.
 
@@ -130,7 +130,7 @@
 
 * * *
 
-## [5. 10998 - A×B](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/1.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/10998.py)
+## [5. 10998 - A×B](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/01.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/10998.py)
 * 문제
 	* 두 정수 A와 B를 입력받은 다음, A×B를 출력하는 프로그램을 작성하시오.
 
@@ -176,7 +176,7 @@
 
 * * *
 
-## [6. 1008 - A/B](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/1.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/1008.py)
+## [6. 1008 - A/B](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/01.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/1008.py)
 * 문제
 	* 두 정수 A와 B를 입력받은 다음, A/B를 출력하는 프로그램을 작성하시오.
 
@@ -224,7 +224,7 @@
 
 * * *
 
-## [7. 10869 - 사칙연산](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/1.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/10869.py)
+## [7. 10869 - 사칙연산](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/01.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/10869.py)
 * 문제
 	* 두 자연수 A와 B가 주어진다. 이때, A+B, A-B, A×B, A/B(몫), A%B(나머지)를 출력하는 프로그램을 작성하시오.
 
@@ -257,7 +257,7 @@
 
 * * *
 
-## [8. 10926 - ??!](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/1.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/10926.py)
+## [8. 10926 - ??!](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/01.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/10926.py)
 * 문제
 	* 준하는 사이트에 회원가입을 하다가 joonas라는 아이디가 이미 존재하는 것을 보고 놀랐다. 준하는 놀람을 ??!로 표현한다. 준하가 가입하려고 하는 사이트에 이미 존재하는 아이디가 주어졌을 때, 놀람을 표현하는 프로그램을 작성하시오.
 
@@ -287,7 +287,7 @@
 
 * * *
 
-## [9. 18108 - 1998년생인 내가 태국에서는 2541년생?!](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/1.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/18108.py)
+## [9. 18108 - 1998년생인 내가 태국에서는 2541년생?!](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/01.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/18108.py)
 * 문제
 	* ICPC Bangkok Regional에 참가하기 위해 수완나품 국제공항에 막 도착한 팀 레드시프트 일행은 눈을 믿을 수 없었다. 공항의 대형 스크린에 올해가 2562년이라고 적혀 있던 것이었다.
 
@@ -316,7 +316,7 @@
 
 * * *
 
-## [10. 3003 - 	킹, 퀸, 룩, 비숍, 나이트, 폰](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/1.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/3003.py)
+## [10. 3003 - 	킹, 퀸, 룩, 비숍, 나이트, 폰](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/01.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/3003.py)
 * 문제
 	* 동혁이는 오래된 창고를 뒤지다가 낡은 체스판과 피스를 발견했다.
 
@@ -355,7 +355,7 @@
 
 * * *
 
-## [11. 10430 - 나머지](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/1.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/10430.py)
+## [11. 10430 - 나머지](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/01.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/10430.py)
 * 문제
 	* (A+B)%C는 ((A%C) + (B%C))%C 와 같을까?
 	* (A×B)%C는 ((A%C) × (B%C))%C 와 같을까?
@@ -387,7 +387,7 @@
 
 * * *
 
-## [12. 2588 - 곱셈](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/1.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/2588.py)
+## [12. 2588 - 곱셈](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/01.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/2588.py)
 * 문제
 	* (세 자리 수) × (세 자리 수)는 다음과 같은 과정을 통하여 이루어진다.
 
@@ -420,7 +420,7 @@
 
 * * *
 
-## [13. 10171 - 고양이](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/1.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/10171.py)
+## [13. 10171 - 고양이](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/01.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/10171.py)
 * 문제
 	* 아래 예제와 같이 고양이를 출력하시오.
 
@@ -447,7 +447,7 @@
 
 * * *
 
-## [14. 10172 - 개](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/1.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/10172.py)
+## [14. 10172 - 개](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/01.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/10172.py)
 * 문제
 	* 아래 예제와 같이 개를 출력하시오.
 
@@ -475,7 +475,7 @@
 
 * * *
 
-## [15. 25083 - 새싹](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/1.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/25083.py)
+## [15. 25083 - 새싹](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/01.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%20%EC%97%B0%EC%82%B0/25083.py)
 * 문제
 	* 아래 예제와 같이 새싹을 출력하시오.
 
