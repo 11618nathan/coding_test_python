@@ -1,6 +1,66 @@
-# 4. 1차원 배열
+# 04. 1차원 배열
+## [1. 10807 - 개수 세기](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/04.%201%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/10807.py)
+* 문제
+	* 총 N개의 정수가 주어졌을 때, 정수 v가 몇 개인지 구하는 프로그램을 작성하시오.
 
-## [1. 10818 - 최소, 최대](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/4.%201%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/10818.py)
+* 입력
+	* 첫째 줄에 정수의 개수 N(1 ≤ N ≤ 100)이 주어진다. 둘째 줄에는 정수가 공백으로 구분되어져있다. 셋째 줄에는 찾으려고 하는 정수 v가 주어진다. 입력으로 주어지는 정수와 v는 -100보다 크거나 같으며, 100보다 작거나 같다.
+
+* 출력
+	* 첫째 줄에 입력으로 주어진 N개의 정수 중에 v가 몇 개인지 출력한다.
+
+* 예제 입력1
+<pre><code>11
+1 4 1 2 4 2 4 2 3 4 4
+2</code></pre>
+
+* 예제 출력1
+<pre><code>3</code></pre>
+
+* 예제 입력2
+<pre><code>11
+1 4 1 2 4 2 4 2 3 4 4
+5</code></pre>
+
+* 예제 출력2
+<pre><code>0</code></pre>
+
+* 출처
+	* 문제를 만든 사람: baekjoon
+
+* 알고리즘 분류
+	* 구현
+
+* * *
+
+## [2. 10871 - X보다 작은수](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/04.%201%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/10871.py)
+* 문제
+	* 정수 N개로 이루어진 수열 A와 정수 X가 주어진다. 이때, A에서 X보다 작은 수를 모두 출력하는 프로그램을 작성하시오.
+
+* 입력
+	* 첫째 줄에 N과 X가 주어진다. (1 ≤ N, X ≤ 10,000)
+
+	* 둘째 줄에 수열 A를 이루는 정수 N개가 주어진다. 주어지는 정수는 모두 1보다 크거나 같고, 10,000보다 작거나 같은 정수이다.
+
+* 출력
+	* X보다 작은 수를 입력받은 순서대로 공백으로 구분해 출력한다. X보다 작은 수는 적어도 하나 존재한다.
+
+* 예제 입력1
+<pre><code>10 5
+1 10 4 9 2 3 8 5 7 6</code></pre>
+
+* 예제 출력1
+<pre><code>1 4 2 3</code></pre>
+
+* 출처
+	* 문제의 오타를 찾은 사람: jh82582, thinksong1
+
+* 알고리즘 분류
+	* 구현
+
+* * *
+
+## [3. 10818 - 최소, 최대](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/04.%201%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/10818.py)
 * 문제
 	* N개의 정수가 주어진다. 이때, 최솟값과 최댓값을 구하는 프로그램을 작성하시오.
 
@@ -27,7 +87,7 @@
 
 * * *
 
-## [2. 2562 - 최댓값](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/4.%201%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/2562.py)
+## [4. 2562 - 최댓값](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/04.%201%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/2562.py)
 * 문제
 	* 9개의 서로 다른 자연수가 주어질 때, 이들 중 최댓값을 찾고 그 최댓값이 몇 번째 수인지를 구하는 프로그램을 작성하시오.
 
@@ -67,7 +127,96 @@
 
 * * *
 
-## [3. 3052 - 나머지](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/4.%201%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/3052.py)
+## [5. 5597 - 과제 안 내신 분..?](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/04.%201%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/2562.py)
+* 문제
+	* X대학 M교수님은 프로그래밍 수업을 맡고 있다. 교실엔 학생이 30명이 있는데, 학생 명부엔 각 학생별로 1번부터 30번까지 출석번호가 붙어 있다.
+
+	* 교수님이 내준 특별과제를 28명이 제출했는데, 그 중에서 제출 안 한 학생 2명의 출석번호를 구하는 프로그램을 작성하시오.
+
+* 입력
+	* 입력은 총 28줄로 각 제출자(학생)의 출석번호 n(1 ≤ n ≤ 30)가 한 줄에 하나씩 주어진다. 출석번호에 중복은 없다.
+
+* 출력
+	* 출력은 2줄이다. 1번째 줄엔 제출하지 않은 학생의 출석번호 중 가장 작은 것을 출력하고, 2번째 줄에선 그 다음 출석번호를 출력한다.
+
+* 예제 입력1
+<pre><code>3
+1
+4
+5
+7
+9
+6
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30</code></pre>
+
+* 예제 출력1
+<pre><code>2
+8</code></pre>
+
+* 예제 입력1
+<pre><code>9
+30
+6
+12
+10
+20
+21
+11
+7
+5
+28
+4
+18
+29
+17
+19
+27
+13
+16
+26
+14
+23
+22
+15
+3
+1
+24
+25</code></pre>
+
+* 예제 출력1
+<pre><code>2
+8</code></pre>
+
+* 출처
+	* Olympiad > Japanese Olympiad in Informatics > Japanese Olympiad in Informatics Qualification Round > JOI 2007 예선 2번
+	* 문제를 번역한 사람: egpaltair
+
+* 알고리즘 분류
+	* 구현
+
+* * *
+
+## [6. 3052 - 나머지](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/04.%201%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/3052.py)
 * 문제
 	* 두 자연수 A와 B가 있을 때, A%B는 A를 B로 나눈 나머지 이다. 예를 들어, 7, 14, 27, 38을 3으로 나눈 나머지는 1, 2, 0, 2이다. 
 
@@ -139,7 +288,7 @@
 
 * * *
 
-## [4. 1546 - 평균](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/4.%201%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/1546.py)
+## [7. 1546 - 평균](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/04.%201%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/1546.py)
 * 문제
 	* 세준이는 기말고사를 망쳤다. 세준이는 점수를 조작해서 집에 가져가기로 했다. 일단 세준이는 자기 점수 중에 최댓값을 골랐다. 이 값을 M이라고 한다. 그리고 나서 모든 점수를 점수/Mx100으로 고쳤다.
 
@@ -221,7 +370,7 @@
 
 * * *
 
-## [5. 8958 - OX퀴즈](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/4.%201%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/8958.py)
+## [8. 8958 - OX퀴즈](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/04.%201%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/8958.py)
 * 문제
 	* "OOXXOXXOOO"와 같은 OX퀴즈의 결과가 있다. O는 문제를 맞은 것이고, X는 문제를 틀린 것이다. 문제를 맞은 경우 그 문제의 점수는 그 문제까지 연속된 O의 개수가 된다. 예를 들어, 10번 문제의 점수는 3이 된다.
 
@@ -261,7 +410,7 @@ OOOOXOOOOXOOOOX</code></pre>
 
 * * *
 
-## [6. 4344 - 평균은 넘겠지](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/4.%201%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/4344.py)
+## [9. 4344 - 평균은 넘겠지](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/04.%201%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/4344.py)
 * 문제
 	* 대학생 새내기들의 90%는 자신이 반에서 평균은 넘는다고 생각한다. 당신은 그들에게 슬픈 진실을 알려줘야 한다.
 
