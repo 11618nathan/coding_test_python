@@ -1,6 +1,6 @@
-# 5. 함수
+# 06. 함수
 
-## [1. 15596 - 정수 N개의 합](https://github.com/laphayen/coding_test_python/tree/main/BAEKJOON/5.%20%ED%95%A8%EC%88%98/15596.py)
+## [1. 15596 - 정수 N개의 합](https://github.com/laphayen/coding_test_python/tree/main/BAEKJOON/06.%20%ED%95%A8%EC%88%98/15596.py)
 * 문제
 	* 정수 n개가 주어졌을 때, n개의 합을 구하는 함수를 작성하시오.
 
@@ -26,7 +26,7 @@
 
 * * *
 
-## [2. 4673 - 셀프 넘버](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/5.%20%ED%95%A8%EC%88%98/4673.py)
+## [2. 4673 - 셀프 넘버](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/06.%20%ED%95%A8%EC%88%98/4673.py)
 * 문제
 	* 셀프 넘버는 1949년 인도 수학자 D.R. Kaprekar가 이름 붙였다. 양의 정수 n에 대해서 d(n)을 n과 n의 각 자리수를 더하는 함수라고 정의하자. 예를 들어, d(75) = 75+7+5 = 87이다.
 
@@ -91,7 +91,7 @@
 
 * * *
 
-## [3. 1065 - 한수](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/5.%20%ED%95%A8%EC%88%98/1065.py)
+## [3. 1065 - 한수](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/06.%20%ED%95%A8%EC%88%98/1065.py)
 * 문제
 	* 어떤 양의 정수 X의 각 자리가 등차수열을 이룬다면, 그 수를 한수라고 한다. 등차수열은 연속된 두 개의 수의 차이가 일정한 수열을 말한다. N이 주어졌을 때, 1보다 크거나 같고, N보다 작거나 같은 한수의 개수를 출력하는 프로그램을 작성하시오. 
 

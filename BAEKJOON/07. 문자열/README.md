@@ -1,6 +1,6 @@
-# 6. 문자열
+# 07. 문자열
 
-## [1. 11654 - 아스키 코드](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/6.%20%EB%AC%B8%EC%9E%90%EC%97%B4/11654.py)
+## [1. 11654 - 아스키 코드](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/07.%20%EB%AC%B8%EC%9E%90%EC%97%B4/11654.py)
 * 문제
 	* 알파벳 소문자, 대문자, 숫자 0-9중 하나가 주어졌을 때, 주어진 글자의 아스키 코드값을 출력하는 프로그램을 작성하시오.
 
@@ -55,7 +55,7 @@
 
 * * *
 
-## [2. 11720 - 숫자의 합](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/6.%20%EB%AC%B8%EC%9E%90%EC%97%B4/11720.py)
+## [2. 11720 - 숫자의 합](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/07.%20%EB%AC%B8%EC%9E%90%EC%97%B4/11720.py)
 * 문제
 	* N개의 숫자가 공백 없이 쓰여있다. 이 숫자를 모두 합해서 출력하는 프로그램을 작성하시오.
 
@@ -104,7 +104,7 @@
 
 * * *
 
-## [3. 10809 - 알파벳 찾기](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/6.%20%EB%AC%B8%EC%9E%90%EC%97%B4/10809.py)
+## [3. 10809 - 알파벳 찾기](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/07.%20%EB%AC%B8%EC%9E%90%EC%97%B4/10809.py)
 * 문제
 	* 알파벳 소문자로만 이루어진 단어 S가 주어진다. 각각의 알파벳에 대해서, 단어에 포함되어 있는 경우에는 처음 등장하는 위치를, 포함되어 있지 않은 경우에는 -1을 출력하는 프로그램을 작성하시오.
 
@@ -133,7 +133,7 @@
 
 * * *
 
-## [4. 2675 - 문자열 반복](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/6.%20%EB%AC%B8%EC%9E%90%EC%97%B4/2675.py)
+## [4. 2675 - 문자열 반복](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/07.%20%EB%AC%B8%EC%9E%90%EC%97%B4/2675.py)
 * 문제
 	* 문자열 S를 입력받은 후에, 각 문자를 R번 반복해 새 문자열 P를 만든 후 출력하는 프로그램을 작성하시오. 즉, 첫 번째 문자를 R번 반복하고, 두 번째 문자를 R번 반복하는 식으로 P를 만들면 된다. S에는 QR Code "alphanumeric" 문자만 들어있다.
 
@@ -166,7 +166,7 @@
 
 * * *
 
-## [5. 1157 - 단어 공부](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/6.%20%EB%AC%B8%EC%9E%90%EC%97%B4/1157.py)
+## [5. 1157 - 단어 공부](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/07.%20%EB%AC%B8%EC%9E%90%EC%97%B4/1157.py)
 * 문제
 	* 알파벳 대소문자로 된 단어가 주어지면, 이 단어에서 가장 많이 사용된 알파벳이 무엇인지 알아내는 프로그램을 작성하시오. 단, 대문자와 소문자를 구분하지 않는다.
 
@@ -210,7 +210,7 @@
 
 * * *
 
-## [6. 1152 - 단어의 개수](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/6.%20%EB%AC%B8%EC%9E%90%EC%97%B4/1152.py)
+## [6. 1152 - 단어의 개수](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/07.%20%EB%AC%B8%EC%9E%90%EC%97%B4/1152.py)
 * 문제
 	* 영어 대소문자와 공백으로 이루어진 문자열이 주어진다. 이 문자열에는 몇 개의 단어가 있을까? 이를 구하는 프로그램을 작성하시오. 단, 한 단어가 여러 번 등장하면 등장한 횟수만큼 모두 세어야 한다.
 
@@ -250,7 +250,7 @@
 
 * * *
 
-## [7. 2908 - 단어의 개수](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/6.%20%EB%AC%B8%EC%9E%90%EC%97%B4/2908.py)
+## [7. 2908 - 단어의 개수](https://github.com/laphayen/coding_test_python/blob/main/BAEKJOON/07.%20%EB%AC%B8%EC%9E%90%EC%97%B4/2908.py)
 * 문제
 	* 상근이의 동생 상수는 수학을 정말 못한다. 상수는 숫자를 읽는데 문제가 있다. 이렇게 수학을 못하는 상수를 위해서 상근이는 수의 크기를 비교하는 문제를 내주었다. 상근이는 세 자리 수 두 개를 칠판에 써주었다. 그 다음에 크기가 큰 수를 말해보라고 했다.
 

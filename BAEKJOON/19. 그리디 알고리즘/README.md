@@ -1,6 +1,6 @@
-# 18. 그리디 알고리즘
+# 19. 그리디 알고리즘
 
-## [1. 11047 - 동전 0](https://github.com/laphayen/coding_test_python/tree/main/BAEKJOON/18.%20%EA%B7%B8%EB%A6%AC%EB%94%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/11047.py)
+## [1. 11047 - 동전 0](https://github.com/laphayen/coding_test_python/tree/main/BAEKJOON/19.%20%EA%B7%B8%EB%A6%AC%EB%94%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/11047.py)
 * 문제
 	* 준규가 가지고 있는 동전은 총 N종류이고, 각각의 동전을 매우 많이 가지고 있다.
 
