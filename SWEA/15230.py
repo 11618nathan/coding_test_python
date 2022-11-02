@@ -1,19 +1,16 @@
-n = int(input())
-l = [0 for i in range(n)]
+t = int(input())
 
-for i in range(n):
-    l = input()
-    cout = 1
-    m = ord(l[0])
-    if (l[0] == 'a'):
-        for j in l:
-            r = ord(j)-1
-            if (m == r):
-                m = ord(j)
+for i in range(t):
+    l = list(input())
+    temp = 97
+    cout = 0
+    for j in l:
+        if cout < 27:
+            if ord(j) == temp:
                 cout += 1
+                temp += 1
             else :
-                m = ord('a')
-    else:
-        cout = 0
-          
-    print("#%d %d" % (i+1, cout))
+                break
+        else:
+            break
+    print('#%d %d' %((i+1), cout))
