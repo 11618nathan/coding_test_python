@@ -1,0 +1,10 @@
+r = []
+for i in range(7):
+    n = int(input())
+    if (n % 2) != 0:
+        r.append(n)
+if r:
+    print(sum(r))
+    print(min(r))
+else:
+    print(-1)
